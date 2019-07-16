@@ -1,0 +1,25 @@
+.element{
+	padding: 5px 10px;
+	border-style:solid;
+  border-width:thin;
+	border-color: grey;
+	margin: 0px 2%;
+	height: auto;
+	
+}
+ 
+
+.remove{
+	color: white;
+		float: right;
+		background-color: blue;
+	}
+ .remove:hover{
+		color:white;
+		background-color: black;
+	}
+
+h6{   font-size: 1.1em;
+	color: blue;
+	display: inline;
+}	
